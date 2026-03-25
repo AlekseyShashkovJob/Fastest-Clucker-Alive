@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "89929742412",
+    "project_id": "fastest-clucker-alive",
+    "storage_bucket": "fastest-clucker-alive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89929742412:ios:73e9faa342278838251ce9",
+        "android_client_info": {
+          "package_name": "com.vovev.fastestcluckeralive"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbwBf-QBr3UsVQ3X76BN3LLbX6RT7V-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
